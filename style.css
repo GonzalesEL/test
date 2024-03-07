@@ -1,0 +1,17 @@
+th {
+    text-align: center;
+    font-family: 'Protest Strike', sans-serif;
+}
+img {
+    height: 400px;
+}
+h3 {
+    font-family: 'Protest Strike', sans-serif;
+}
+h2 {
+    font-family: 'Protest Strike', sans-serif;
+}
+.container {
+    background-color: lightgrey;
+    padding: 15px
+}
